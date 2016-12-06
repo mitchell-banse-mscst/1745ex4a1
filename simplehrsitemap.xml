@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/home.html</loc>
+      <priority>1.0</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/about.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/contact.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/overview.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/workforce.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/payroll.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/empselfservice.html</loc>
+      <priority>0.5</priority>
+    </url>
+    <url>
+      <loc>http://mbanse1745ex4a1.azurewebsites.net/requestinformation.html</loc>
+      <priority>0.5</priority>
+    </url>
+</urlset>

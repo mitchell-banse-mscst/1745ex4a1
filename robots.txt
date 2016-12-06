@@ -1,0 +1,7 @@
+﻿User-agent: Googlebot
+Disallow: /template1.html
+Disallow: /template1c.html
+Disallow: /page1.html
+Disallow: /css/
+Disallow: /images/
+Disallow: /fonts/
